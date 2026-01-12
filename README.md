@@ -17,12 +17,13 @@ I enjoy working in cross-functional engineering teams, optimizing test workflows
 - Python • Pytest • C/C++ • Java • SQL • MATLAB • Shell
 
 #### **Tools & Frameworks**
-- ECU-Test • Selenium • CI/CD (Jenkins) • Git • TestRail • PyCharm  
-- Playwright • TEMS Investigation
+- ECU-Test • Selenium • CI/CD (Jenkins) • Git • TestRail • PyTest 
+- Playwright • TEMS Investigation • Wireshark • PyCharm 
 
 #### **Embedded & Connectivity**
 - CAN • Ethernet • FlexRay • RF Measurement Systems  
 - Signal Generators • Spectrum Analyzers • Oscilloscopes
+- Wireless Communication • 5G NR • LTE • UMTS • GSM
 
 #### **Domains**
 - ADAS Hardware-in-the-Loop (HiL) Testing  
