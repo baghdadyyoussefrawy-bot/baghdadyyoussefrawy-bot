@@ -49,15 +49,6 @@ Scripts for monitoring packet loss, latency, and network quality with Grafana da
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ### 🏆 Highlights
 - Automated end-to-end test workflows for ADAS HiL and embedded systems  
 - Experience with RF systems for measurement-based testing  
@@ -70,13 +61,10 @@ Scripts for monitoring packet loss, latency, and network quality with Grafana da
 ### 📫 Connect With Me
 
 📧 **baghdady.youssefrawy@gmail.com**  
-🔗 **LinkedIn:** *(your link here)*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/youssef-r-0231a3b7/*  
 
 ---
 
 ### ⭐ Fun Fact  
 I love optimizing test systems, building automation pipelines, and making complex engineering processes simpler, faster, and more reliable.
 
----
-
-### 🌟 If you like my work, consider giving a star ⭐ to my repositories!
