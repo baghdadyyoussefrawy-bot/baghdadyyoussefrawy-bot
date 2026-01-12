@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💼 Youssef Ahmed Rawy Baghdady
+Test Automation Engineer | Embedded Systems | ADAS | RF Communication | QA & Verification
+
+🚀 Passionate about building automated testing solutions for embedded systems, ADAS HiL validation, RF communication devices, and high-performance software verification.
+I focus on creating scalable automation frameworks, measurement setups, and tooling that improve product reliability and accelerate development cycles.
 <!--
 **baghdadyyoussefrawy-bot/baghdadyyoussefrawy-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
